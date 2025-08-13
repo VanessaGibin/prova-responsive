@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    font-size: 20px;
+    font-size: 18px;
     font-family: 'Times New Roman', sans-serif;
 }
 h1 {
@@ -50,4 +50,5 @@ body {
   font-size: clamp(16px, 2vw, 20px);
 }
 Il font crescerà proporzionalmente alla larghezza dello schermo, ma non scenderà sotto 16px né salirà sopra 20px.
+
 */
